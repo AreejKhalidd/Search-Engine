@@ -1,0 +1,54 @@
+.B1 {
+	text-decoration:none;
+    text-shadow:0px 1px 0px bisque;
+	position: relative;
+	top: 56px;
+    margin-left: 15px;
+	margin-top: 1.5%;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:14px 37px;
+	box-shadow: 0px 0px 0px 2px plum;
+	background:linear-gradient(to bottom, purple 5%, purple 100%);
+	background-color:plum;
+
+	display:inline-block;
+	border:1px solid plum;
+	border-radius:50px;
+	border:1px solid rgb(212, 28, 89);
+  }
+  .B1:hover {
+	background-color:purple;
+	background-color:pink;
+	color: white;
+  }
+
+  .in1 {
+	top:200px;
+	margin: 36px auto;
+	width: 45%;
+    position:relative;	
+	}
+
+
+
+#text_in {
+	position: relative;
+	border-radius: 100px;
+	width: 90%;
+	padding: 15px;
+	font-size: 30px;
+	color: grey;
+	box-sizing: border-box;
+	outline: none;
+}
+
+img {
+	  border-radius: 75px;
+	  padding: 5px;
+	  width: 350px;
+	}
+	
+	

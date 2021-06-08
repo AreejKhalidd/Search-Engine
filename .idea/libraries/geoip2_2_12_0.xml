@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="geoip2-2.12.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../geoip2-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../geoip-api-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../mysql-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
